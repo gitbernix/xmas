@@ -16,8 +16,12 @@ img {
     box-shadow: 0 0 15px #fff;
 }
 
+.T {
+    color: rosybrown;
+}
+
 .link {
-    color: white;
+    color: rosybrown;
 }
 
 .link:hover {
