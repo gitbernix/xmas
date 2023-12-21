@@ -7,11 +7,12 @@
 }
 
 body {
-    overflow: hidden;
+    /* overflow: hidden; */
+    margin: 0 auto;
 }
 
 img {
-    width: 40%;
+    /* width: 20%; */
     box-shadow: 0 0 15px #fff;
 }
 
@@ -151,4 +152,14 @@ img {
     left: 90%;
     -webkit-animation-delay: 3s, 1.5s;
     animation-delay: 3s, 1.5s;
+}
+
+.details {
+    font-size: 0.8em;
+}
+
+@media only screen and (max-width: 500px) {
+    img {
+        width: 40%;
+    }
 }
