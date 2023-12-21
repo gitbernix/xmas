@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0;
     background-color: #304d30;
-    color: #eef0e5;
+    color: white;
 }
 
 body {
@@ -17,11 +17,11 @@ img {
 }
 
 .link {
-    color: #b6c4b6;
+    color: white;
 }
 
 .link:hover {
-    color: #eef0e5;
+    color: gray;
 }
 
 .merry {
@@ -155,7 +155,7 @@ img {
 }
 
 .details {
-    font-size: 0.8em;
+    font-size: 0.9em;
 }
 
 @media only screen and (max-width: 500px) {
